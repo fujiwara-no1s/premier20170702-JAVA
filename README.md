@@ -1,6 +1,6 @@
-# Premier test 2017 12Œ“x2–â–Ú Java
+# Premier test 2017 12æœˆåº¦2å•ç›® Java
 
-## Àsè‡
+## å®Ÿè¡Œæ‰‹é †
 
 ```
 $ git clone git@github.com:fujiwara-no1s/premier20170702-JAVA.git
